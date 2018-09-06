@@ -6,7 +6,7 @@
  * Time: 14:04
  */
 
-namespace ICCGame\Activity;
+namespace ICCGame\ICCActivity;
 
 interface ICCActivityInterface
 {

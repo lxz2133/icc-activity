@@ -6,7 +6,7 @@
  * Time: 14:24
  */
 
-namespace ICCGame\Activity;
+namespace ICCGame\ICCActivity;
 
 abstract class AbstractICCActivity implements ICCActivityInterface
 {
