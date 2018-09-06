@@ -1,0 +1,19 @@
+{
+    "name": "iccgame/icc-activity",
+    "description": "iccgame activity",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lxz2133",
+            "email": "lxz2133@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ICCGame\\Activity\\": "src/"
+        }
+    }
+}
